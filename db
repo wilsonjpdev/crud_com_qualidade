@@ -1,18 +1,15 @@
 {
   "todos": [
     {
-      "date": "2024-03-03T16:56:29.518Z",
-      "content": "Segunda TODO",
+      "id": "6401aded-25e3-4f04-892d-692f3ad33712",
+      "date": "2024-03-04T22:08:01.002Z",
+      "content": "Primeira todo",
       "done": false
     },
     {
-      "date": "2024-03-03T16:57:30.089Z",
-      "content": "Nova Todo",
-      "done": false
-    },
-    {
-      "date": "2024-03-03T17:00:04.734Z",
-      "content": "Nova Todo",
+      "id": "aa9dd2af-4680-490a-8d08-da1c1585bdd4",
+      "date": "2024-03-04T22:08:01.003Z",
+      "content": "Atualizado",
       "done": false
     }
   ]
